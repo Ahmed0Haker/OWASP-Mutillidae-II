@@ -188,8 +188,6 @@ This branch contained:
 ## 📌 *7. Demo Video & Report*
 
 * *Technical Report:* included as Lab4 Secure.pdf
-* *Demo Video:* (Add link here after uploading)
-
 ---
 
 ## 📌 *8. References*
